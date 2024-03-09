@@ -1,4 +1,5 @@
 # Job Finder App
+![React Native Job Finder App Project Image](/_readme_images/ReactNativeJobs.png "React Native Job Finder App Project Image Project Image")
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Tech Stack](#tech-stack)
