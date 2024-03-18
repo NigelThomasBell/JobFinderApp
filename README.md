@@ -84,7 +84,7 @@ Replace the placeholder values with your actual credentials. You can obtain thes
             ```bash
             npx expo start
             ```
-        * Press ```a`` in the console running the Expo app to launch the app inside the emulated device. If Expo Go is not installed, it will automatically start installing it on the emulated device.
+        * Press ```a``` in the console running the Expo app to launch the app inside the emulated device. If Expo Go is not installed, it will automatically start installing it on the emulated device.
         * Further Notes: 
             * Before pressing ```a``` in the console running the Expo app to open on Android, ensure the emulated device is running, otherwise you will get an error.
             * After creating the emulated device, if you get a continuous black screen without the typical bootup graphics or interface displaying, you may have to press the turn off button from the extended controls to the right of the device. During development, this caused the emulated device to display the app.
